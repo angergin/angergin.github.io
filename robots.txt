@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://angergin.github.io/sitemap.html.gz
+Sitemap: https://angergin.github.io/app/sitemap.html.gz
+Sitemap: https://angergin.github.io/assets/sitemap.html.gz
+Sitemap: https://angergin.github.io/css/sitemap.html.gz
+Sitemap: https://angergin.github.io/includes/sitemap.html.gz
+Sitemap: https://angergin.github.io/item/sitemap.html.gz
+Sitemap: https://angergin.github.io/src/sitemap.html.gz
